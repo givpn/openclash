@@ -1,7 +1,7 @@
 payload:
   # Reject porn sites
   # Tambahkan ke rule Reject
-  # https://raw.githubusercontent.com/givpn/pornblock/main/pornblock.yaml
+  # https://raw.githubusercontent.com/givpn/openclash/main/pornblock/pornblock.yaml
   # Powered by givpn
   # 05-05-2023
   - IP-CIDR,198.18.0.1/16
