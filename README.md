@@ -1,1 +1,3 @@
 # openclash
+```adblock```
+```pornblock```
