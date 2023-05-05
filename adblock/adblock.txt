@@ -1,8 +1,8 @@
 ! Title   : givpn adblock filter
-! Raw     : https://raw.githubusercontent.com/givpn/adblock/main/adblock.txt
+! Raw     : https://raw.githubusercontent.com/givpn/openclash/main/adblock/adblock.txt
 ! Expires : 1 days (update frequency)
-! Licensi : https://github.com/givpn/adblock/blob/main/LICENSE
-! Homepage: https://github.com/givpn/adblock
+! Licensi : https://github.com/givpn/openclash/adblock/blob/main/LICENSE
+! Homepage: https://github.com/givpn/openclash/adblock
 ! Last modified: 2023-05-05
 adtago.s3.amazonaws.com
 analyticsengine.s3.amazonaws.com
